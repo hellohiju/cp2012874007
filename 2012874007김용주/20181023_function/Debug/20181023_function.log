@@ -1,4 +1,4 @@
-﻿빌드 시작: 10/23/2018 4:12:05 PM
+﻿빌드 시작: 10/23/2018 5:31:36 PM
      1>2 노드의 "C:\Users\hello\OneDrive\2012874007\2012874007김용주\20181023_function\20181023_function.vcxproj" 프로젝트(Build 대상)입니다.
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt function.cpp
@@ -10,4 +10,4 @@
 
 빌드했습니다.
 
-경과 시간: 00:00:01.53
+경과 시간: 00:00:01.09
