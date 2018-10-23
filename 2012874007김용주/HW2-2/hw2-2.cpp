@@ -8,6 +8,7 @@ int main()
 	int i = 0;
 	int sum = 0;
 
+	printf("Enter 10 integers\n");
 	while (i < 10)
 	{
 		printf("integer%d = ", ++i);

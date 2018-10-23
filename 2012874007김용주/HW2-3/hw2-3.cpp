@@ -5,6 +5,8 @@
 #include <stdio.h>
 int main()
 {
+	printf("sum multiples of 3 less than 100\n");
+
 	int i = 0;
 	int sum = 0;
 

@@ -136,13 +136,13 @@ int main()
 
 	printf("SUM from 1 to 100: %d\n", sum);
 
-	printf("최대공약수");
+	printf("최대공약수\n");
 	int a, b;
 	int c;
 
 	printf("integer1: ");
 	scanf("%d", &a);
-	printf("integer1: ");
+	printf("integer2: ");
 	scanf("%d", &b);
 
 	while (b)
@@ -152,7 +152,9 @@ int main()
 		b = c;
 	}
 
-	printf("최대공약수: %d\n", c);
+	printf("최대공약수: %d\n", a);
+
+	return 0;
 	
 	printf("\nprogram ended!\n");
 

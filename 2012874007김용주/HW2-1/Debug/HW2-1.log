@@ -1,4 +1,4 @@
-﻿빌드 시작: 10/16/2018 5:27:28 PM
+﻿빌드 시작: 10/22/2018 12:54:30 PM
      1>2 노드의 "C:\Users\hello\OneDrive\2012874007\2012874007김용주\HW2-1\HW2-1.vcxproj" 프로젝트(Build 대상)입니다.
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "hw2-1.cpp"
@@ -10,4 +10,4 @@
 
 빌드했습니다.
 
-경과 시간: 00:00:01.00
+경과 시간: 00:00:01.33
