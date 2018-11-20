@@ -50,7 +50,7 @@ int findMin(int* arr, int length)
 // 출력: 최소값의 인덱스
 int findMinIndex(int* arr, int length, int now)
 {
-	int minIndex = 0;
+	int minIndex = now;
 	for(int i=now; i<length; i++)
 	{
 		if (arr[i] < arr[minIndex])
@@ -84,7 +84,7 @@ void selectionSort(int* arr, int length)
 	{
 		//int a[length-i];
 		//for(int k=0; k<length; k++)
-		//	a[k]=arr[i];
+		//a[k]=arr[i];
 		swapElement(arr, i, findMinIndex(arr, length, i));
 	}
 }

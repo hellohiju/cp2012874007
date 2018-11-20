@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{D940277E-9796-4059-B41F-4FB6E3D6AC65}</ProjectGuid>
+    <ProjectGuid>{7B1136C7-E0E3-4EF1-BBFE-FA098A5ABD99}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My20181113_insertionSort</RootNamespace>
     <ProjectName>20181113_selectionSort</ProjectName>
