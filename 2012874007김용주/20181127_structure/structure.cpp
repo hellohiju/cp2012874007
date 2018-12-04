@@ -64,7 +64,7 @@ void convertToConjugate(Complex* ptr)
 // 입력: 복소수(포인터)
 // 출력: 복소수
 // 부수효과: x
-Complex returnConjugate(Complex* ptr)
+Complex* returnConjugate(Complex* ptr)
 {
 	Complex temp;
 	temp.real = ptr->real;
