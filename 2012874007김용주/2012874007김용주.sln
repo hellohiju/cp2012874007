@@ -103,6 +103,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181204_dynamicAllocation"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181204_linkedList", "20181204_linkedList\20181204_linkedList.vcxproj", "{650A37FB-A888-4C2C-ACF6-7EE68031CFCF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181211_linkedList2", "20181211_linkedList2\20181211_linkedList2.vcxproj", "{B76B9023-F9ED-4A5B-B3D5-B23DEAE8D49C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181211_linkedList3", "20181211_linkedList3\20181211_linkedList3.vcxproj", "{533F4574-7A0F-4FC5-92A0-61A85B69697C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -313,6 +317,14 @@ Global
 		{650A37FB-A888-4C2C-ACF6-7EE68031CFCF}.Debug|Win32.Build.0 = Debug|Win32
 		{650A37FB-A888-4C2C-ACF6-7EE68031CFCF}.Release|Win32.ActiveCfg = Release|Win32
 		{650A37FB-A888-4C2C-ACF6-7EE68031CFCF}.Release|Win32.Build.0 = Release|Win32
+		{B76B9023-F9ED-4A5B-B3D5-B23DEAE8D49C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B76B9023-F9ED-4A5B-B3D5-B23DEAE8D49C}.Debug|Win32.Build.0 = Debug|Win32
+		{B76B9023-F9ED-4A5B-B3D5-B23DEAE8D49C}.Release|Win32.ActiveCfg = Release|Win32
+		{B76B9023-F9ED-4A5B-B3D5-B23DEAE8D49C}.Release|Win32.Build.0 = Release|Win32
+		{533F4574-7A0F-4FC5-92A0-61A85B69697C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{533F4574-7A0F-4FC5-92A0-61A85B69697C}.Debug|Win32.Build.0 = Debug|Win32
+		{533F4574-7A0F-4FC5-92A0-61A85B69697C}.Release|Win32.ActiveCfg = Release|Win32
+		{533F4574-7A0F-4FC5-92A0-61A85B69697C}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
